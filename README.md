@@ -6,7 +6,7 @@ I design, develop, and bring innovative electronic products to life — from cir
 
 I'm passionate about making electronics accessible to everyone through practical engineering, innovative hardware tools, and developer-friendly platforms.
 
-🚀 **Founder of [Electrify Labs](https://electrifylabs.in/)** — Think Amazing. Be Amazing.
+🚀 **Founder of [Electrify Labs](https://electrifylabs.in/)** 
 
 ---
 
@@ -25,9 +25,9 @@ I'm passionate about making electronics accessible to everyone through practical
 ## 🛠️ Technical Skills
 
 **Embedded Systems**
-- STM32, ESP32, AVR
+- STM32, ESP32, AVR, infineon
 - Embedded C/C++, Arduino
-- GPIO, ADC, PWM, Timers, Interrupts
+- ADC, PWM, Timers, Interrupts
 - UART, SPI, I²C, CAN, RS485
 
 **Electronics & PCB Design**
@@ -45,11 +45,9 @@ I'm passionate about making electronics accessible to everyone through practical
 - Robotics and Motor Control
 - Data Acquisition and Monitoring Systems
 
-**Tools & Platforms**
-- Git and GitHub
-- KiCad / Altium Designer
-- STM32CubeIDE
-- VS Code
+**Tools & Platforms** 
+- KiCad / Altium Designer / EasyEDA
+- STM32CubeIDE / Arduino IDE
 - Oscilloscopes, Multimeters, and Logic Analyzers
 
 ---
@@ -86,8 +84,8 @@ Custom electronic circuits, microcontroller-based systems, sensor interfaces, an
 ## 🤝 Let's Connect
 
 - 🌐 **Startup:** [Electrify Labs](https://electrifylabs.in/)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
-- 🐙 **GitHub:** [Explore my repositories](https://github.com/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/meet-patel07/)
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/amazingmj)
 
 ---
 
